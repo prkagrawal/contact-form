@@ -1,2 +1,2 @@
 # About
-This is a contact form, which on submission saves the user in database and sends mail to user and admin
+This is frontend for taking user data and submitting that to backend api.
