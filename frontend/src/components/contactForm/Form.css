@@ -1,0 +1,59 @@
+.center{
+  text-align: center;
+}
+.lead{
+  margin: 20px auto;
+  color: white;
+}
+.contact{
+    background-color: #151515;
+    padding-top: 50px;
+    width: 100%;
+}
+.contact-form{
+  align-items: center;
+  width: 100%;
+}
+.form-field{
+  display: flex;
+  flex-direction: column;
+  margin: 10px auto;
+  width: 80%;
+  max-width: 750px;
+  padding: 10px 20px;
+  align-items: left;
+}
+.form-field label{
+  font-size: 14px;  
+  font-weight: 600;
+  color: white;
+}
+input{
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  padding: 12px 18px;
+  font-size: 20px;
+  color: white;
+  background-color: #666;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+}
+.submit-btn{
+  width: 30%;
+  margin: 20px auto;
+  padding: 12px 18px;
+  font-size: 22px;
+  color: white;
+  background-color: crimson;
+  text-decoration: none;
+  border-radius: 10px;
+  cursor: pointer;
+  border:none;
+  outline: none;
+}
+.submit-btn:hover{
+  background-color: #777;
+  color: black;
+}
